@@ -3,6 +3,7 @@
 **Question:** When does a yellow taxi's regulated $70 JFK flat fare beat surge-priced rideshare, and what should taxi drivers do with that?
 
 **Data:** 2.5M+ JFK trips from NYC TLC (yellow taxi and rideshare, Jan to Jun 2025), joined with US BTS flight arrival data.
+
 **Tools:** PySpark, pandas, GeoPandas, scikit-learn, LaTeX.
 
 ![When does the JFK flat fare beat rideshare?](plots/jfk_flat_fare_advantage_by_hour.png)
